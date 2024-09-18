@@ -1,6 +1,6 @@
 {
     "apiVersion": "1.3",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "Scatter Plot Matrix",
     "id": "tibco-mods-splom", 
     "icon": "icon.svg",
